@@ -1,4 +1,4 @@
-// write a c program to calculate area of triangle givenn base & height
+// write a c program to calculate area of triangle given base & height
 #include<stdio.h>
 int main(){
 
